@@ -1,0 +1,390 @@
+{ 
+    "_id" : ObjectId("5fe06e0d092b7f3020f51de6"), 
+    "imgSrc" : "/images/menus/shuangdanchangxiantaocan.png", 
+    "name" : "双旦尝鲜套餐 任选6片", 
+    "price" : "158", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(1), 
+    "carousel" : [
+        "/images/宝贝详情/双旦尝鲜套餐/轮播图1.png", 
+        "/images/宝贝详情/双旦尝鲜套餐/轮播图2.png", 
+        "/images/宝贝详情/双旦尝鲜套餐/轮播图3.png", 
+        "/images/宝贝详情/双旦尝鲜套餐/轮播图4.png", 
+        "/images/宝贝详情/双旦尝鲜套餐/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/双旦尝鲜套餐/shuangdanchangxiantaocan.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06e42092b7f3020f51de7"), 
+    "imgSrc" : "/images/menus/shuangdanchangxiangtaocan.png", 
+    "name" : "双旦畅享套餐 十片装", 
+    "price" : "218", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(1), 
+    "carousel" : [
+        "/images/宝贝详情/双旦畅享套餐/轮播图1.png", 
+        "/images/宝贝详情/双旦畅享套餐/轮播图2.png", 
+        "/images/宝贝详情/双旦畅享套餐/轮播图3.png", 
+        "/images/宝贝详情/双旦畅享套餐/轮播图4.png", 
+        "/images/宝贝详情/双旦畅享套餐/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/双旦畅享套餐/shuangdanchangxiangtaocan.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06e73092b7f3020f51de8"), 
+    "imgSrc" : "/images/menus/shuangdanquannengtaocan.png", 
+    "name" : "双旦全能套餐 任选8片", 
+    "price" : "188", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(1), 
+    "carousel" : [
+        "/images/宝贝详情/双旦全能套餐/轮播图1.png", 
+        "/images/宝贝详情/双旦全能套餐/轮播图2.png", 
+        "/images/宝贝详情/双旦全能套餐/轮播图3.png", 
+        "/images/宝贝详情/双旦全能套餐/轮播图4.png", 
+        "/images/宝贝详情/双旦全能套餐/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/双旦全能套餐/shuangdanquannengtaocan.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06e9b092b7f3020f51de9"), 
+    "imgSrc" : "/images/menus/feiliniupai.png", 
+    "name" : "菲力牛排", 
+    "price" : "27", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/菲力牛排/轮播图1.png", 
+        "/images/宝贝详情/菲力牛排/轮播图2.png", 
+        "/images/宝贝详情/菲力牛排/轮播图3.png", 
+        "/images/宝贝详情/菲力牛排/轮播图4.png", 
+        "/images/宝贝详情/菲力牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/菲力牛排/feiliniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06eba092b7f3020f51dea"), 
+    "imgSrc" : "/images/menus/xilenniupai.png", 
+    "name" : "西冷牛排", 
+    "price" : "26", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/西冷牛排/轮播图1.png", 
+        "/images/宝贝详情/西冷牛排/轮播图2.png", 
+        "/images/宝贝详情/西冷牛排/轮播图3.png", 
+        "/images/宝贝详情/西冷牛排/轮播图4.png", 
+        "/images/宝贝详情/西冷牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/西冷牛排/xilenniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06ee5092b7f3020f51deb"), 
+    "imgSrc" : "/images/menus/aoerliangfengweijipai.png", 
+    "name" : "奥尔良风味鸡排", 
+    "price" : "15", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/奥尔良风味鸡排/轮播图1.png", 
+        "/images/宝贝详情/奥尔良风味鸡排/轮播图2.png", 
+        "/images/宝贝详情/奥尔良风味鸡排/轮播图3.png", 
+        "/images/宝贝详情/奥尔良风味鸡排/轮播图4.png", 
+        "/images/宝贝详情/奥尔良风味鸡排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/奥尔良风味鸡排/aoerliangfengweijipai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06f06092b7f3020f51dec"), 
+    "imgSrc" : "/images/menus/Tguniupai.png", 
+    "name" : "T骨牛排", 
+    "price" : "28", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/T骨牛排/轮播图1.png", 
+        "/images/宝贝详情/T骨牛排/轮播图2.png", 
+        "/images/宝贝详情/T骨牛排/轮播图3.png", 
+        "/images/宝贝详情/T骨牛排/轮播图4.png", 
+        "/images/宝贝详情/T骨牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/T骨牛排/Tguniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06f30092b7f3020f51ded"), 
+    "imgSrc" : "/images/menus/heijiaoniupai.png", 
+    "name" : "黑椒牛排", 
+    "price" : "26", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/黑椒牛排/轮播图1.png", 
+        "/images/宝贝详情/黑椒牛排/轮播图2.png", 
+        "/images/宝贝详情/黑椒牛排/轮播图3.png", 
+        "/images/宝贝详情/黑椒牛排/轮播图4.png", 
+        "/images/宝贝详情/黑椒牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/黑椒牛排/heijiaoniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06fb6092b7f3020f51dee"), 
+    "imgSrc" : "/images/menus/niuzaibaniupai.png", 
+    "name" : "牛仔扒牛排", 
+    "price" : "26", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/牛仔扒牛排/轮播图1.png", 
+        "/images/宝贝详情/牛仔扒牛排/轮播图2.png", 
+        "/images/宝贝详情/牛仔扒牛排/轮播图3.png", 
+        "/images/宝贝详情/牛仔扒牛排/轮播图4.png", 
+        "/images/宝贝详情/牛仔扒牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/牛仔扒牛排/niuzaibaniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe06fd4092b7f3020f51def"), 
+    "imgSrc" : "/images/menus/rouyanniupai.png", 
+    "name" : "肉眼牛排", 
+    "price" : "27", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/肉眼牛排/轮播图1.png", 
+        "/images/宝贝详情/肉眼牛排/轮播图2.png", 
+        "/images/宝贝详情/肉眼牛排/轮播图3.png", 
+        "/images/宝贝详情/肉眼牛排/轮播图4.png", 
+        "/images/宝贝详情/肉眼牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/肉眼牛排/rouyanniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe07016092b7f3020f51df0"), 
+    "imgSrc" : "/images/menus/shalangniupai.png", 
+    "name" : "沙朗牛排", 
+    "price" : "26", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(0), 
+    "carousel" : [
+        "/images/宝贝详情/沙朗牛排/轮播图1.png", 
+        "/images/宝贝详情/沙朗牛排/轮播图2.png", 
+        "/images/宝贝详情/沙朗牛排/轮播图3.png", 
+        "/images/宝贝详情/沙朗牛排/轮播图4.png", 
+        "/images/宝贝详情/沙朗牛排/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/沙朗牛排/shalangniupai.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe07032092b7f3020f51df1"), 
+    "imgSrc" : "/images/menus/meimantaocan.png", 
+    "name" : "美满套餐", 
+    "price" : "188", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(1), 
+    "carousel" : [
+        "/images/宝贝详情/美满套餐/轮播图1.png", 
+        "/images/宝贝详情/美满套餐/轮播图2.png", 
+        "/images/宝贝详情/美满套餐/轮播图3.png", 
+        "/images/宝贝详情/美满套餐/轮播图4.png", 
+        "/images/宝贝详情/美满套餐/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/美满套餐/meimantaocan.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}
+{ 
+    "_id" : ObjectId("5fe07049092b7f3020f51df2"), 
+    "imgSrc" : "/images/menus/nengliangtaocan.png", 
+    "name" : "能量套餐", 
+    "price" : "240", 
+    "spec" : "150g/袋", 
+    "setmeal" : NumberInt(1), 
+    "carousel" : [
+        "/images/宝贝详情/能量套餐/轮播图1.png", 
+        "/images/宝贝详情/能量套餐/轮播图2.png", 
+        "/images/宝贝详情/能量套餐/轮播图3.png", 
+        "/images/宝贝详情/能量套餐/轮播图4.png", 
+        "/images/宝贝详情/能量套餐/轮播图5.png"
+    ], 
+    "description" : "/images/宝贝详情/能量套餐/nengliangtaocan.png", 
+    "goodsinfo" : {
+        "burden_sheet" : "牛肉、饮用水、食用盐、酿造酱油、淀粉、香辛料、食品添加剂、【碳酸氢钠、酪蛋白酸钠、复配水分保持剂（三聚磷酸钠、焦磷酸钠、六偏磷酸钠)、D_抗坏血酸钠】", 
+        "net_content" : "150g/袋", 
+        "expiration_date" : "12个月", 
+        "storage_condition" : "-18°C以下冷冻", 
+        "date_produced" : "见喷码", 
+        "preservation_method" : "避光、低温、防潮、防压、防晒", 
+        "edible_methods" : "煎食", 
+        "production_permit" : "SC11141010200287", 
+        "executive_standard" : "SB/T 10379", 
+        "supervision" : "河南景航实业有限公司", 
+        "manufacturer" : "河南哈桑食品有限公司", 
+        "address" : "河南自贸试验区郑州片区（东区)商务外环路19号河南农信大厦6层32号"
+    }
+}

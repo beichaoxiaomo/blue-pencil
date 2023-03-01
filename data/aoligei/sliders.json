@@ -1,0 +1,15 @@
+{ 
+    "_id" : ObjectId("5fe06d22092b7f3020f51de3"), 
+    "imgSrc" : "/images/sliders/IMG_20201221_151417.png", 
+    "menuId" : "5fe06e42092b7f3020f51de7"
+}
+{ 
+    "_id" : ObjectId("5fe06d3d092b7f3020f51de4"), 
+    "imgSrc" : "/images/sliders/IMG_20201221_151538.png", 
+    "menuId" : "5fe06e0d092b7f3020f51de6"
+}
+{ 
+    "_id" : ObjectId("5fe06d53092b7f3020f51de5"), 
+    "imgSrc" : "/images/sliders/IMG_20201221_151627.png", 
+    "menuId" : "5fe06e73092b7f3020f51de8"
+}
